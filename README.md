@@ -23,4 +23,23 @@ A Shopping Website build with Angular 4 and Firebase.
 - Firebase Realtime Database *(Backend)*
 - Firebase authentication
 
+  ## To run the project locally:
+
+```
+    > cd organic-shop/
+    > npm install
+    > npm start -- --host 127.0.0.1
+
+```
+
+
+
+## Team 
+
+- Amal Raju - Login ,Firebase Setup, Routing, AuthGuard , Deployment
+- Arunima Das - Product Management and Product Catalog
+- Hari Prasad - Shopping Cart and Check Out Module
+
+
+
 
